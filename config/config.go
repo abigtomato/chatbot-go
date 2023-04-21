@@ -21,7 +21,7 @@ const (
 
 	DefaultDallEUrl  = "https://api.openai.com/v1/images/generations"
 	DefaultImageN    = 1
-	DefaultImageSize = "512x512"
+	DefaultImageSize = "256x256"
 )
 
 var config *Configuration
