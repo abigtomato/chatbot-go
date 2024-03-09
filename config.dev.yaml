@@ -1,0 +1,20 @@
+common:
+  serviceUrl: "http://43.137.18.209:8090"
+wechat:
+  appId: "wx827b6c686c1cf99f"
+  appSecret: "b7c800913f08eb545053812ed37e8fab"
+  token: "abigtomato"
+  encodingAESKey: "EPPOVSuIeuBQyUEZmybHwLmfg5LOZm08WvcaKczwM8C"
+chatGPT:
+  apiKey: "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"
+  baseUrl: "https://service-eh1ygd7a-1317417289.usw.apigw.tencentcs.com/v1/chat/completions"
+  model: "gpt-3.5-turbo-0613"
+  maxTokens:
+  temperature:
+  topP:
+  frequencyPenalty:
+  presencePenalty:
+dallE:
+  baseUrl: "https://service-eh1ygd7a-1317417289.usw.apigw.tencentcs.com/v1/images/generations"
+  imageN:
+  imageSize:
